@@ -6,6 +6,7 @@ using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Connector;
 using MattSpeakman.Bot.Infrastructure;
 using MattSpeakman.Bot.Dialogs;
+using MattSpeakman.Bot.Enumerations;
 
 namespace MattSpeakman.Bot
 {
